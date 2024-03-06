@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "open-ai-ext",
+    "libraryId": "e8439dc2-35b3-46c7-b689-b59743742dcb",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "OpenAIExt",
+    "solutionShortDescription": "OpenAIExt description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}

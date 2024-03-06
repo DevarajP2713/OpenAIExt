@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="OpenAiExt"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="99d3b38e-79a3-4304-b8d0-ff58ac84981f"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>
